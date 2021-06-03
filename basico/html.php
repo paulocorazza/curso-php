@@ -18,5 +18,6 @@
 
 <br>
 <div>
+<button><?="legal"?></button>
     <button><?="legal"?></button>
 </div>

@@ -15,11 +15,23 @@
         <div class="conteudo">
             <nav class="modulos">
                 <div class="modulo verde">
-                    <h3>Módulo 01</h3>
+                    <h3>Basico</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=basico&file=ola">Ola PHP</a></li>
                         <li><a href="exercicio.php?dir=basico&file=html">Integracao com HTML</a></li>
                         <li><a href="exercicio.php?dir=basico&file=css">Integracao com CSS</a></li>
+                        <li><a href="exercicio.php?dir=basico&file=comentarios">Comentarios com PHP</a></li>
+                        <li><a href="exercicio.php?dir=basico&file=desafio">Desafio</a></li>
+                    </ul>
+                </div>
+                <div class="modulo vermelho">
+                    <h3>Tipos de Dados</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=tipos&file=int">Tipos Inteiros</a></li>
+                        <li><a href="exercicio.php?dir=tipos&file=float">Tipos Flutuantes</a></li>
+                        <!-- <li><a href="exercicio.php?dir=basico&file=css">Integracao com CSS</a></li>
+                        <li><a href="exercicio.php?dir=basico&file=comentarios">Comentarios com PHP</a></li>
+                        <li><a href="exercicio.php?dir=basico&file=desafio">Desafio</a></li> --> 
                     </ul>
                 </div>
             </nav>
