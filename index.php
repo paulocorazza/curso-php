@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <link href="https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700" rel="stylesheet">
     <link rel="stylesheet" href="recursos/css/estilo.css">
     <title>Curso PHP</title>
 </head>
+
 <body>
     <header class="cabecalho">
         <h1>Curso PHP</h1>
@@ -17,21 +19,47 @@
                 <div class="modulo verde">
                     <h3>Basico</h3>
                     <ul>
-                        <li><a href="exercicio.php?dir=basico&file=ola">Ola PHP</a></li>
-                        <li><a href="exercicio.php?dir=basico&file=html">Integracao com HTML</a></li>
-                        <li><a href="exercicio.php?dir=basico&file=css">Integracao com CSS</a></li>
-                        <li><a href="exercicio.php?dir=basico&file=comentarios">Comentarios com PHP</a></li>
-                        <li><a href="exercicio.php?dir=basico&file=desafio">Desafio</a></li>
+                        <li>
+                            <a href="exercicio.php?dir=basico&file=ola">Ola PHP</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=basico&file=html">Integracao com HTML</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=basico&file=css">Integracao com CSS</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=basico&file=comentarios">Comentarios com PHP</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=basico&file=desafio">Desafio</a>
+                        </li>
                     </ul>
                 </div>
                 <div class="modulo vermelho">
                     <h3>Tipos de Dados</h3>
                     <ul>
-                        <li><a href="exercicio.php?dir=tipos&file=int">Tipos Inteiros</a></li>
-                        <li><a href="exercicio.php?dir=tipos&file=float">Tipos Flutuantes</a></li>
+                        <li>
+                            <a href="exercicio.php?dir=tipos&file=int">Tipos Inteiros</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=tipos&file=float">Tipos Flutuantes</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=tipos&file=aritmeticas">Operações Aritméticas</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=tipos&file=strings">Tipos String</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=tipos&file=desafio_string">Desafio String</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=tipos&file=boolean">tipos booleanos</a>
+                        </li>
                         <!-- <li><a href="exercicio.php?dir=basico&file=css">Integracao com CSS</a></li>
                         <li><a href="exercicio.php?dir=basico&file=comentarios">Comentarios com PHP</a></li>
-                        <li><a href="exercicio.php?dir=basico&file=desafio">Desafio</a></li> --> 
+                        <li><a href="exercicio.php?dir=basico&file=desafio">Desafio</a></li> -->
                     </ul>
                 </div>
             </nav>
@@ -41,4 +69,5 @@
         COD3R & ALUNOS © <?= date('Y'); ?>
     </footer>
 </body>
+
 </html>
