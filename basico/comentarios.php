@@ -1,21 +1,26 @@
-<div class="titulo">
-    Comentarios em PHP
-</div>
+<div class="titulo">Comentários PHP</div>
 
 <?php
+echo "Estou no PHP";
+// echo "Comentário";
+# echo "Comentário";
+# echo // "Comentário";
+// echo # "Comentário";
+# ?>
 
-    echo "estou no PHP"
-    //echo "comentario"
-?>
-
-<p>Depois do primeiro paragrafo</p>
+<p>Depois do primeiro bloco!</p>
+<!-- 
+    <p>Comentário HTML 1</p>
+    <p>Comentário HTML 2</p>
+    <p>Comentário HTML 3</p>
+-->
 
 <?php
-
-    /*
-         echo "estou no PHP"
-
-    */
-
-
+/*
+    Linha 1 do comentário
+    Linha 2 do comentário
+    Linha 3 do comentário
+*/
 ?>
+
+<p>Depois do segundo bloco!</p>
