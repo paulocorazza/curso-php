@@ -21,3 +21,8 @@ echo isset($soma);
 echo '<br>';
 unset($soma);
 
+
+echo '<br>';
+
+var_dump($_SERVER['HTTP_HOST']);
+
