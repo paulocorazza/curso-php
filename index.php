@@ -15,7 +15,7 @@
         <div class="conteudo">
             <nav class="modulos">
                 <div class="modulo verde">
-                    <h3>Básico</h3>
+                    <h3>1.Básico</h3>
                     <ul>
                         <li>
                             <a href="exercicio.php?dir=basico&file=ola">
@@ -45,7 +45,7 @@
                     </ul>
                 </div>
                 <div class="modulo vermelho">
-                    <h3>Tipos</h3>
+                    <h3>2.Tipos</h3>
                     <ul>
                         <li>
                             <a href="exercicio.php?dir=tipos&file=int">
@@ -90,7 +90,7 @@
                     </ul>
                 </div>
                 <div class="modulo azul">
-                    <h3>Variáveis</h3>
+                    <h3>3.Variáveis</h3>
                     <ul>
                         <li>
                             <a href="exercicio.php?dir=variaveis&file=basico">
@@ -120,6 +120,26 @@
                         <li>
                             <a href="exercicio.php?dir=variaveis&file=desafio_variaveis">
                             Desafio variáveis
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=variaveis&file=valor_referencia">
+                            Valor e Referência
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=variaveis&file=constantes">
+                            Constantes
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="modulo roxo">
+                    <h3>4.Estruturas de Controle</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=estruturas_controle&file=if_else">
+                              Estruturas de controle
                             </a>
                         </li>
                     </ul>
