@@ -142,6 +142,41 @@
                               Estruturas de controle
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=estruturas_controle&file=operadores_relacionais">
+                             Operadores relacionais
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=estruturas_controle&file=desafio_pi">
+                            Desafio PI
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=estruturas_controle&file=operadores_logicos">
+                            Operadores Lógicos
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=estruturas_controle&file=desafio_operadores_logicos">
+                            Desafio Operadores Lógicos
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=estruturas_controle&file=ternario">
+                            Operador Ternário
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=estruturas_controle&file=switch">
+                                Switch
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=estruturas_controle&file=desafio_switch">
+                             Desafio Switch
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
