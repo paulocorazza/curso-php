@@ -179,6 +179,46 @@
                         </li>
                     </ul>
                 </div>
+                <div class="modulo laranja">
+                    <h3>5.Arrays</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=arrays&file=basico">
+                             Básico
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=arrays&file=mapa">
+                             Mapa
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=arrays&file=desafio_index">
+                             Desafio Index
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=arrays&file=desafio_meses">
+                             Desafio Meses
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=arrays&file=operacoes">
+                             Operações
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=arrays&file=desafio_sorteio">
+                             Desafio Sorteio
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=arrays&file=multi">
+                             Multidimensionais
+                            </a>
+                        </li>
+                    </ul>
+                </div>
             </nav>
         </div>
     </main>
