@@ -192,14 +192,57 @@
                           Desafio  For
                         </a>
                     </li>
+                    <li>
+                        <a href="exercicio.php?dir=repeticoes&file=foreach">
+                         Foreach
+                        </a>
+                    </li>
+                    <li>
+                        <a href="exercicio.php?dir=repeticoes&file=break_continue">
+                         Break & Continue
+                        </a>
+                    </li>
+                    <li>
+                        <a href="exercicio.php?dir=repeticoes&file=desafio_impressao">
+                        Desafio Impressão
+                        </a>
+                    </li>
+                    <li>
+                        <a href="exercicio.php?dir=repeticoes&file=do_do_while">
+                        Do & DoWhile
+                        </a>
+                    </li>
+                    <li>
+                        <a href="exercicio.php?dir=repeticoes&file=desafio_tabela">
+                        Desafio Tabela
+                        </a>
+                    </li>
+                    <li>
+                        <a href="exercicio.php?dir=repeticoes&file=desafio_tabela2">
+                        Desafio Tabela 2
+                        </a>
+                    </li>
+                    
+                    
                 </ul>
                   
+                </div>
+                <div class="modulo vermelho-escuro">
+                    <h3>7.Funções</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=escopo">
+                              Escopo
+                            </a>
+                        </li>
+                      
+                    </ul>
                 </div>
             </nav>
         </div>
     </main>
     <footer class="rodape">
-        COD3R & ALUNOS © <?= date('Y'); ?>
+        COD3R & ALUNOS © <?= date('Y');   ?>
     </footer>
 </body>
 </html>
