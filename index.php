@@ -235,7 +235,16 @@
                               Escopo
                             </a>
                         </li>
-                      
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=args_retorno">
+                             Argumentos e parâmetros de retorno
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=palindrono">
+                             Desafio Palíndrono
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
