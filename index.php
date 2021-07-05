@@ -241,8 +241,23 @@
                             </a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=funcoes&file=palindrono">
+                            <a href="exercicio.php?dir=funcoes&file=palindromo">
                              Desafio Palíndrono
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=args_variaveis">
+                             Argumentos variáveis
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=args_padroes">
+                             Argumentos padrões
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=tipos">
+                             Tipos
                             </a>
                         </li>
                     </ul>
