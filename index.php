@@ -304,6 +304,12 @@
                             <a href="exercicio.php?dir=OO&file=desafio_data">
                                Desafio Data
                             </a>
+                            <a href="exercicio.php?dir=OO&file=construtor_destrutor">
+                               Construtor e Destrutor
+                            </a>
+                            <a href="exercicio.php?dir=OO&file=heranca">
+                               Herança
+                            </a>
                         </li>
                     </ul>
                 </div>
