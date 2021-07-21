@@ -310,6 +310,12 @@
                             <a href="exercicio.php?dir=OO&file=heranca">
                                Herança
                             </a>
+                            <a href="exercicio.php?dir=OO&file=visibilidade">
+                               Visibilidade
+                            </a>
+                            <a href="exercicio.php?dir=OO&file=static">
+                               Static
+                            </a>
                         </li>
                     </ul>
                 </div>
