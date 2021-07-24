@@ -334,6 +334,22 @@
                             <a href="exercicio.php?dir=OO&file=trait02">
                                Traits 2
                             </a>
+                            <a href="exercicio.php?dir=OO&file=magic_methods">
+                             Métodos mágicos
+                            </a>
+                            <a href="exercicio.php?dir=OO&file=polimorfismo">
+                             Polimorfismo
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="modulo roxo-escuro">
+                    <h3>9. Includes</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=includes&file=include">
+                              Includes
+                            </a>
                         </li>
                     </ul>
                 </div>
