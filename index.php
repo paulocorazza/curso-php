@@ -1,3 +1,34 @@
+Skip to content
+Pulls
+Issues
+Marketplace
+Explore
+@paulocorazza
+paulocorazza /
+curso-php
+
+1
+0
+
+0
+
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+
+More
+curso-php/index.php /
+@paulocorazza
+paulocorazza fim includes
+Latest commit d36da91 9 days ago
+History
+1 contributor
+379 lines (373 sloc) 15.6 KB
 <!DOCTYPE html>
 <html lang="en">
 
@@ -299,46 +330,46 @@
                     <ul>
                         <li>
                             <a href="exercicio.php?dir=OO&file=classe">
-                               Classe
+                                Classe
                             </a>
                             <a href="exercicio.php?dir=OO&file=desafio_data">
-                               Desafio Data
+                                Desafio Data
                             </a>
                             <a href="exercicio.php?dir=OO&file=construtor_destrutor">
-                               Construtor e Destrutor
+                                Construtor e Destrutor
                             </a>
                             <a href="exercicio.php?dir=OO&file=heranca">
-                               Herança
+                                Herança
                             </a>
                             <a href="exercicio.php?dir=OO&file=visibilidade">
-                               Visibilidade
+                                Visibilidade
                             </a>
                             <a href="exercicio.php?dir=OO&file=static">
-                               Static
+                                Static
                             </a>
                             <a href="exercicio.php?dir=OO&file=interface">
-                               Interface
+                                Interface
                             </a>
                             <a href="exercicio.php?dir=OO&file=abstract">
-                               Classe Abstrata
+                                Classe Abstrata
                             </a>
                             <a href="exercicio.php?dir=OO&file=desafio_erro">
-                               Desafio erro
+                                Desafio erro
                             </a>
                             <a href="exercicio.php?dir=OO&file=final">
-                               Final
+                                Final
                             </a>
                             <a href="exercicio.php?dir=OO&file=trait01">
-                               Traits
+                                Traits
                             </a>
                             <a href="exercicio.php?dir=OO&file=trait02">
-                               Traits 2
+                                Traits 2
                             </a>
                             <a href="exercicio.php?dir=OO&file=magic_methods">
-                             Métodos mágicos
+                                Métodos mágicos
                             </a>
                             <a href="exercicio.php?dir=OO&file=polimorfismo">
-                             Polimorfismo
+                                Polimorfismo
                             </a>
                         </li>
                     </ul>
@@ -348,26 +379,207 @@
                     <ul>
                         <li>
                             <a href="exercicio.php?dir=includes&file=include">
-                              Includes
+                                Includes
                             </a>
                         </li>
                         <li>
                             <a href="exercicio.php?dir=includes&file=include_funcao">
-                              Includes com função
+                                Includes com função
                             </a>
                         </li>
                         <li>
                             <a href="exercicio.php?dir=includes&file=include_require">
-                              Include vs require
+                                Include vs require
                             </a>
                         </li>
                         <li>
                             <a href="exercicio.php?dir=includes&file=require_return">
-                             Require e return
+                                Require e return
                             </a>
                         </li>
                     </ul>
                 </div>
+
+
+
+                <div class="modulo laranja">
+                    <h3>10. Namespace</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=namespace&file=basico">
+                                Exemplo Básico
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=namespace&file=sub_namespaces">
+                                Sub-Namespaces
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=namespace&file=use_as">
+                                Use/As
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="modulo verde">
+                    <h3>11. Trat. de Erro</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=tratamento_erro&file=try_catch">
+                                Try/Catch
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=tratamento_erro&file=erros_personalizados">
+                                Erros Personalizados
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=tratamento_erro&file=desafio_intdiv_teste">
+                                Desafio intdiv
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=tratamento_erro&file=gerenciador_erro">
+                                Error Handler
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="modulo vermelho">
+                    <h3>12. Sessão</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=sessao&file=basico_sessao">
+                                Sessão
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=sessao&file=gerenciando_sessao">
+                                Gerenciando Sessão
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="modulo azul">
+                    <h3>13. API</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=api&file=datas_01">
+                                Datas #01
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=api&file=datas_02">
+                                Datas #02
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=api&file=escrever_arquivo">
+                                Escrever Arquivo
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=api&file=ler_arquivo">
+                                Ler Arquivo
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=api&file=upload">
+                                Upload
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=api&file=download">
+                                Download
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=api&file=imagens">
+                                Imagens
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="modulo roxo">
+                    <h3>14. Formulário</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=formulario&file=formulario">
+                                Formulário
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="modulo laranja">
+                    <h3>15. BD</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=db&file=criar_banco">
+                                Criar Banco
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=db&file=criar_tabela">
+                                Criar Tabela
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=db&file=inserir_1">
+                                Inserir Registro #01
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=db&file=consultar">
+                                Consultar Registros
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=db&file=excluir_1">
+                                Excluir Registro #01
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=db&file=excluir_2">
+                                Excluir Registro #02
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=db&file=inserir_2">
+                                Inserir Registro #02
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=db&file=alterar">
+                                Alterar Registro
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=db&file=inserir_pdo">
+                                PDO: Inserir
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=db&file=consultar_pdo">
+                                PDO: Consultar
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=db&file=excluir_pdo">
+                                PDO: Excluir
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=db&file=alterar_pdo">
+                                PDO: Alterar
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+
+
             </nav>
         </div>
     </main>
